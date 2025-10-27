@@ -1,0 +1,21 @@
+{
+  "timestamp": "20251026T204650Z",
+  "results_dir": "/mnt/c/Users/DELL/smartsec-eval/results/registrationregistryresults",
+  "severity_counts": {
+    "CRITICAL": 0,
+    "MEDIUM": 0,
+    "MINOR": 5
+  },
+  "files": {
+    "CRITICAL": [],
+    "MEDIUM": [],
+    "MINOR": [
+      "mythril_baseline_20251026T202520Z.json",
+      "mythril_baseline_20251026T203451Z.json",
+      "mythril_improved_20251026T203451Z.json",
+      "slither_baseline_20251026T202358Z.json",
+      "slither_improved_20251026T202358Z.json"
+    ]
+  },
+  "recommended_actions": []
+}

@@ -1,0 +1,4 @@
+timestamp,mode,trial,duration,status,logpath
+2025-10-26T20:20:47Z,improved,1,7.88,PASS,results/registrationregistryresults/logs/log_improved_1.txt
+2025-10-26T20:20:55Z,improved,2,8.29,PASS,results/registrationregistryresults/logs/log_improved_2.txt
+2025-10-26T20:21:03Z,improved,3,8.43,PASS,results/registrationregistryresults/logs/log_improved_3.txt

@@ -1,0 +1,4 @@
+timestamp,mode,trial,duration,status,logpath
+2025-10-27T04:31:17Z,improved,1,6.21,PASS,results/shipmentregistryresults/logs/log_improved_1.txt
+2025-10-27T04:31:23Z,improved,2,4.54,PASS,results/shipmentregistryresults/logs/log_improved_2.txt
+2025-10-27T04:31:28Z,improved,3,4.55,PASS,results/shipmentregistryresults/logs/log_improved_3.txt

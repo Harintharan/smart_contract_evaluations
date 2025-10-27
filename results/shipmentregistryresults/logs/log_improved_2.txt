@@ -1,0 +1,20 @@
+No files changed, compilation skipped
+
+Ran 1 test for test/ShipmentRegistry.t.sol:ShipmentInvariants
+[PASS] invariant_Improved_Blocks_Attacker_Update() (runs: 256, calls: 128000, reverts: 60400)
+
+╭--------------------------+------------------+-------+---------+----------╮
+| Contract                 | Selector         | Calls | Reverts | Discards |
++==========================================================================+
+| ShipmentRegistry         | registerShipment | 31821 | 0       | 0        |
+|--------------------------+------------------+-------+---------+----------|
+| ShipmentRegistry         | updateShipment   | 32140 | 28234   | 0        |
+|--------------------------+------------------+-------+---------+----------|
+| ShipmentRegistryImproved | registerShipment | 31870 | 0       | 0        |
+|--------------------------+------------------+-------+---------+----------|
+| ShipmentRegistryImproved | updateShipment   | 32169 | 32166   | 0        |
+╰--------------------------+------------------+-------+---------+----------╯
+
+Suite result: ok. 1 passed; 0 failed; 0 skipped; finished in 3.11s (3.11s CPU time)
+
+Ran 1 test suite in 3.11s (3.11s CPU time): 1 tests passed, 0 failed, 0 skipped (1 total tests)

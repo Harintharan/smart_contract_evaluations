@@ -1,0 +1,13 @@
+Retest Summary for ShipmentRegistry @ 20251027T041739Z
+================================================
+
+CRITICAL Issues: 0
+
+MEDIUM Issues: 0
+
+MINOR Issues: 2
+  - mythril_baseline_20251027T041539Z.json
+  - mythril_improved_20251027T041539Z.json
+
+🟢 MINOR or none → no rerun executed.
+

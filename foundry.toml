@@ -1,0 +1,18 @@
+[profile.default]
+# Point Foundry to the contracts and tests in this repo
+src = "contracts"
+test = "test"
+script = "script"
+out = "out"
+libs = ["lib"]
+
+# Allow different pragma versions across files (e.g., 0.8.20 and 0.8.24)
+auto_detect_solc = true
+
+# Reasonable optimizer defaults for benchmarking
+optimizer = true
+optimizer_runs = 200
+
+# Optional: set the EVM version explicitly (safe default)
+evm_version = "paris"
+

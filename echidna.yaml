@@ -1,0 +1,7 @@
+testLimit: 1000
+seqLen: 50
+deployer: "0x10000"
+sender: ["0x10000", "0x20000", "0x30000"]
+coverage: true
+# This config assumes an invariant-style contract exists; adjust as needed.
+

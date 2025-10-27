@@ -1,0 +1,16 @@
+No files changed, compilation skipped
+
+Ran 1 test for test/Invariants.t.sol:Invariants
+[PASS] invariant_Improved_Blocks_Attacker_Update() (runs: 256, calls: 128000, reverts: 98524)
+
+╭------------------------------+----------+-------+---------+----------╮
+| Contract                     | Selector | Calls | Reverts | Discards |
++======================================================================+
+| RegistrationRegistry         | submit   | 64226 | 48279   | 0        |
+|------------------------------+----------+-------+---------+----------|
+| RegistrationRegistryImproved | submit   | 63774 | 50245   | 0        |
+╰------------------------------+----------+-------+---------+----------╯
+
+Suite result: ok. 1 passed; 0 failed; 0 skipped; finished in 5.07s (5.06s CPU time)
+
+Ran 1 test suite in 5.07s (5.07s CPU time): 1 tests passed, 0 failed, 0 skipped (1 total tests)

@@ -1,0 +1,7 @@
+timestamp,test_name,elapsed_seconds,status,run_count
+2025-10-27T05:04:42Z,SegmentInvariants::invariant_Baseline_Fails_On_Attacker_Update,Command exited with non-zero status 1
+1.51,FAIL,1
+2025-10-27T05:04:44Z,SegmentInvariants::invariant_Baseline_Fails_On_Attacker_Update,Command exited with non-zero status 1
+1.77,FAIL,2
+2025-10-27T05:04:45Z,SegmentInvariants::invariant_Baseline_Fails_On_Attacker_Update,Command exited with non-zero status 1
+1.49,FAIL,3

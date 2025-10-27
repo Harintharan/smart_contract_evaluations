@@ -1,0 +1,3 @@
+generated_at,contract,median_tte_s,coverage_pct,notes
+2025-10-27T03:41Z,ProductRegistry (Baseline),2.0,,Baseline vulnerable
+2025-10-27T03:41Z,ProductRegistryImproved,4.71,,Improved secure – no overwrite detected

@@ -1,0 +1,20 @@
+No files changed, compilation skipped
+
+Ran 1 test for test/ProductRegistry.t.sol:ProductInvariants
+[PASS] invariant_Improved_Blocks_Attacker_Update() (runs: 256, calls: 128000, reverts: 67427)
+
+╭-------------------------+-----------------+-------+---------+----------╮
+| Contract                | Selector        | Calls | Reverts | Discards |
++========================================================================+
+| ProductRegistry         | registerProduct | 31827 | 3418    | 0        |
+|-------------------------+-----------------+-------+---------+----------|
+| ProductRegistry         | updateProduct   | 32175 | 28859   | 0        |
+|-------------------------+-----------------+-------+---------+----------|
+| ProductRegistryImproved | registerProduct | 32131 | 3284    | 0        |
+|-------------------------+-----------------+-------+---------+----------|
+| ProductRegistryImproved | updateProduct   | 31867 | 31866   | 0        |
+╰-------------------------+-----------------+-------+---------+----------╯
+
+Suite result: ok. 1 passed; 0 failed; 0 skipped; finished in 3.56s (3.56s CPU time)
+
+Ran 1 test suite in 3.56s (3.56s CPU time): 1 tests passed, 0 failed, 0 skipped (1 total tests)

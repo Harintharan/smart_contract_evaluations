@@ -1,0 +1,7 @@
+timestamp,test_name,elapsed_seconds,status,run_count
+2025-10-27T04:14:17Z,ShipmentInvariants::invariant_Baseline_Fails_On_Attacker_Update,Command exited with non-zero status 1
+1.24,FAIL,1
+2025-10-27T04:14:18Z,ShipmentInvariants::invariant_Baseline_Fails_On_Attacker_Update,Command exited with non-zero status 1
+1.27,FAIL,2
+2025-10-27T04:14:19Z,ShipmentInvariants::invariant_Baseline_Fails_On_Attacker_Update,Command exited with non-zero status 1
+1.27,FAIL,3

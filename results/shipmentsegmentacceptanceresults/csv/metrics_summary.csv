@@ -1,0 +1,3 @@
+generated_at,contract,median_tte_s,coverage_pct,notes
+2025-10-27T05:08Z,ShipmentSegmentAcceptance (Baseline),2.0,,Baseline vulnerable
+2025-10-27T05:08Z,ShipmentSegmentAcceptanceImproved,4.84,,Improved secure – no overwrite detected
